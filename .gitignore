@@ -1,0 +1,4 @@
+hashcheck
+*.o
+*.dSYM/
+.DS_Store
